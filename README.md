@@ -1,6 +1,13 @@
 # Mitchiri Neko March generator
 
-Original Mitchiri Neko March consists of totally 72 characters.
+This script will generate (when it is finished) a modified version
+of [Mitchiri Neko March](https://www.youtube.com/watch?v=lAIGb1lfpBw) video,
+like [this one](https://www.youtube.com/watch?v=8VIllAilTnE)
+with My Little Pony: Friendship is Magic characters.
+
+Anything you need beyond this (except obvious things like fonts and drawing app)
+is a massive amount of time to draw animation frames to let script animate it,
+as original Mitchiri Neko March consists of totally 72 characters of 8 frames each.
 
 # Workflow
 
